@@ -1,0 +1,52 @@
+{
+  "name": "Growth Analytics",
+  "dataColors": [
+    "#0F766E",
+    "#2563EB",
+    "#F59E0B",
+    "#7C3AED",
+    "#16A34A",
+    "#DB2777",
+    "#0891B2",
+    "#EA580C",
+    "#64748B",
+    "#4F46E5"
+  ],
+  "good": "#16A34A",
+  "neutral": "#F59E0B",
+  "bad": "#DC2626",
+  "maximum": "#0F766E",
+  "center": "#F59E0B",
+  "minimum": "#DBEAFE",
+  "null": "#E5E7EB",
+  "background": "#F7F9FC",
+  "foreground": "#172B4D",
+  "tableAccent": "#0F766E",
+  "textClasses": {
+    "callout": {
+      "fontFace": "Inter",
+      "fontSize": 28,
+      "color": "#172B4D"
+    },
+    "title": {
+      "fontFace": "Inter",
+      "fontSize": 14,
+      "color": "#172B4D"
+    },
+    "header": {
+      "fontFace": "Inter",
+      "fontSize": 12,
+      "color": "#172B4D"
+    },
+    "label": {
+      "fontFace": "Inter",
+      "fontSize": 11,
+      "color": "#52627A"
+    },
+    "largeTitle": {
+      "fontFace": "Inter",
+      "fontSize": 32,
+      "color": "#172B4D"
+    }
+  }
+}
