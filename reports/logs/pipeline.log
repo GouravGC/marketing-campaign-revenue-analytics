@@ -1,0 +1,7 @@
+2026-10-10 11:57:30,039 | INFO | Pipeline started
+2026-10-10 11:57:30,052 | INFO | Loaded 10000 rows from C:\Users\GC\Desktop\GCS Portfolio Projects with Modular coding and structure\Job Specific Projects\marketing-campaign-revenue-analytics\data\raw\csv\ga4_ecommerce_events.csv
+2026-10-10 11:57:30,133 | INFO | Wrote 10000 rows to stg_ga4_events.csv
+2026-10-10 11:57:30,135 | INFO | Wrote 440 rows to mart_daily_event_performance.csv
+2026-10-10 11:57:30,136 | INFO | Wrote 44 rows to mart_traffic_source_performance.csv
+2026-10-10 11:57:30,137 | INFO | Wrote 5 rows to mart_event_summary.csv
+2026-10-10 11:57:30,141 | INFO | Pipeline completed successfully

@@ -1,0 +1,45 @@
+traffic_source,traffic_medium,event_name,event_count,unique_users,purchase_revenue_usd
+(data deleted),(data deleted),add_to_cart,217,188,0.0
+(data deleted),(data deleted),begin_checkout,264,217,0.0
+(data deleted),(data deleted),page_view,134,132,0.0
+(data deleted),(data deleted),purchase,286,260,18715.0
+(data deleted),(data deleted),session_start,128,128,0.0
+(direct),(none),add_to_cart,472,395,0.0
+(direct),(none),begin_checkout,417,365,0.0
+(direct),(none),page_view,451,441,0.0
+(direct),(none),purchase,451,422,28652.0
+(direct),(none),session_start,459,459,0.0
+<Other>,(data deleted),add_to_cart,2,2,0.0
+<Other>,(data deleted),purchase,4,4,131.0
+<Other>,(data deleted),session_start,3,3,0.0
+<Other>,<Other>,add_to_cart,242,204,0.0
+<Other>,<Other>,begin_checkout,221,196,0.0
+<Other>,<Other>,page_view,290,285,0.0
+<Other>,<Other>,purchase,227,200,13423.0
+<Other>,<Other>,session_start,310,310,0.0
+<Other>,cpc,add_to_cart,1,1,0.0
+<Other>,organic,add_to_cart,49,41,0.0
+<Other>,organic,begin_checkout,34,31,0.0
+<Other>,organic,page_view,65,63,0.0
+<Other>,organic,purchase,48,42,2921.0
+<Other>,organic,session_start,53,53,0.0
+<Other>,referral,add_to_cart,209,179,0.0
+<Other>,referral,begin_checkout,198,161,0.0
+<Other>,referral,page_view,185,184,0.0
+<Other>,referral,purchase,197,182,13399.0
+<Other>,referral,session_start,194,194,0.0
+google,cpc,add_to_cart,72,60,0.0
+google,cpc,begin_checkout,64,56,0.0
+google,cpc,page_view,91,88,0.0
+google,cpc,purchase,51,49,2560.0
+google,cpc,session_start,87,87,0.0
+google,organic,add_to_cart,525,464,0.0
+google,organic,begin_checkout,576,494,0.0
+google,organic,page_view,622,610,0.0
+google,organic,purchase,503,461,33893.0
+google,organic,session_start,620,620,0.0
+shop.googlemerchandisestore.com,referral,add_to_cart,211,183,0.0
+shop.googlemerchandisestore.com,referral,begin_checkout,226,197,0.0
+shop.googlemerchandisestore.com,referral,page_view,162,160,0.0
+shop.googlemerchandisestore.com,referral,purchase,233,212,14965.0
+shop.googlemerchandisestore.com,referral,session_start,146,146,0.0
